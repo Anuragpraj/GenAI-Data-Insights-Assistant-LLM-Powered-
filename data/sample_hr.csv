@@ -1,0 +1,31 @@
+employee_id,name,department,role,age,experience_yrs,salary,performance_score,attrition,gender,city,joining_date
+E001,Aarav Shah,Engineering,Senior Engineer,32,8,1200000,4.5,No,Male,Bangalore,2016-03-15
+E002,Priya Mehta,Marketing,Manager,35,10,950000,4.2,No,Female,Mumbai,2014-07-01
+E003,Rahul Gupta,Sales,Executive,26,3,480000,3.8,Yes,Male,Delhi,2021-01-10
+E004,Sneha Patel,Engineering,Lead,38,14,1800000,4.8,No,Female,Bangalore,2010-05-22
+E005,Vikram Nair,HR,Executive,28,4,420000,3.5,Yes,Male,Chennai,2020-08-15
+E006,Ananya Roy,Finance,Analyst,27,3,550000,4.0,No,Female,Kolkata,2021-03-01
+E007,Karan Singh,Engineering,Engineer,24,1,600000,3.9,Yes,Male,Hyderabad,2023-06-01
+E008,Divya Sharma,Marketing,Executive,29,5,520000,4.1,No,Female,Delhi,2019-11-15
+E009,Arjun Kumar,Sales,Manager,36,12,1100000,4.6,No,Male,Mumbai,2012-02-28
+E010,Meera Iyer,Engineering,Senior Engineer,33,9,1250000,4.7,No,Female,Bangalore,2015-09-10
+E011,Rohit Verma,Finance,Manager,40,16,1400000,4.4,No,Male,Mumbai,2008-04-05
+E012,Kavya Reddy,Engineering,Engineer,25,2,650000,3.7,Yes,Female,Hyderabad,2022-07-18
+E013,Aditya Joshi,Sales,Executive,27,4,510000,3.6,Yes,Male,Pune,2020-01-20
+E014,Pooja Mishra,HR,Manager,34,9,780000,4.3,No,Female,Delhi,2015-10-12
+E015,Siddharth Rao,Engineering,Lead,37,13,1700000,4.9,No,Male,Bangalore,2011-06-30
+E016,Nisha Gupta,Marketing,Manager,31,7,870000,4.0,No,Female,Mumbai,2017-08-14
+E017,Manish Tiwari,Finance,Analyst,26,2,480000,3.4,Yes,Male,Noida,2022-04-01
+E018,Ritu Pandey,Engineering,Senior Engineer,30,6,1100000,4.3,No,Female,Pune,2018-02-20
+E019,Deepak Chauhan,Sales,Executive,24,1,440000,3.2,Yes,Male,Jaipur,2023-10-05
+E020,Shruti Bose,Engineering,Engineer,26,3,700000,4.0,No,Female,Bangalore,2021-09-12
+E021,Nikhil Agarwal,Marketing,Executive,28,4,490000,3.9,Yes,Male,Delhi,2020-12-01
+E022,Tanvi Desai,Finance,Senior Analyst,32,7,820000,4.5,No,Female,Mumbai,2017-05-25
+E023,Rajesh Kumar,Engineering,Lead,42,18,2000000,5.0,No,Male,Bangalore,2006-01-10
+E024,Lakshmi Pillai,HR,Executive,25,2,380000,3.3,Yes,Female,Chennai,2022-11-07
+E025,Varun Saxena,Sales,Manager,38,14,1250000,4.7,No,Male,Delhi,2010-08-22
+E026,Ishaan Malhotra,Engineering,Engineer,23,1,580000,3.6,Yes,Male,Noida,2024-01-15
+E027,Avni Kapoor,Marketing,Lead,33,9,1050000,4.4,No,Female,Mumbai,2015-07-08
+E028,Gaurav Sinha,Finance,Manager,39,15,1350000,4.6,No,Male,Kolkata,2009-03-18
+E029,Riya Bhatia,Engineering,Senior Engineer,31,7,1150000,4.4,No,Female,Bangalore,2017-11-30
+E030,Kunal Jain,Sales,Executive,26,3,470000,3.7,Yes,Male,Ahmedabad,2021-06-14

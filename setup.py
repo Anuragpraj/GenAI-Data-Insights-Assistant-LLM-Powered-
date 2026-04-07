@@ -1,0 +1,35 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="ai-data-insights-assistant",
+    version="1.0.0",
+    author="Anurag Kumar Prajapati",
+    author_email="anuragpraj7@gmail.com",
+    description="AI-Powered Data Insights Assistant — plain-English querying of structured datasets",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/Anuragpraj/ai-data-insights-assistant",
+    packages=find_packages(),
+    python_requires=">=3.9",
+    install_requires=[
+        "streamlit>=1.35.0",
+        "openai>=1.30.1",
+        "pandas>=2.2.2",
+        "numpy>=1.26.4",
+        "scikit-learn>=1.5.0",
+        "matplotlib>=3.9.0",
+        "seaborn>=0.13.2",
+        "spacy>=3.7.4",
+        "nltk>=3.8.1",
+        "sqlalchemy>=2.0.30",
+        "openpyxl>=3.1.3",
+        "plotly>=5.22.0",
+        "scipy>=1.13.0",
+        "python-dotenv>=1.0.1",
+    ],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+)
